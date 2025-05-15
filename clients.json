@@ -1,0 +1,92 @@
+[
+  {
+    "clientId": "C1000",
+    "name": "Alice Novak",
+    "type": "business",
+    "location": "Brno",
+    "status": "VIP",
+    "email": "alice.novak@example.com",
+    "phone": "+420 777 000 000",
+    "address": "Makova 1, Brno, Czech Republic"
+  },
+  {
+    "clientId": "C1001",
+    "name": "Ben Dvorak",
+    "type": "business",
+    "location": "Ostrava",
+    "status": "on hold",
+    "email": "ben.dvorak@example.com",
+    "phone": "+420 777 000 000",
+    "address": "Polni 1, Ostrava, Czech Republic"
+  },
+  {
+    "clientId": "C1002",
+    "name": "Clara Zelena",
+    "type": "individual",
+    "location": "Plzen",
+    "status": "active",
+    "email": "clara.zelena@example.com",
+    "phone": "+420 777 000 000",
+    "address": "Pivovarni 2, Plzen, Czech Republic"
+  },
+  {
+    "clientId": "C1003",
+    "name": "David Horak",
+    "type": "individual",
+    "location": "Plzen",
+    "status": "active",
+    "email": "david.horak@example.com",
+    "phone": "+420 777 000 000",
+    "address": "Hlavni 1, Plzen, Czech Republic"
+  },
+  {
+    "clientId": "C1004",
+    "name": "Eva Cerna",
+    "type": "individual",
+    "location": "Olomouc",
+    "status": "VIP",
+    "email": "eva.cerna@example.com",
+    "phone": "+420 777 000 000",
+    "address": "Rigrova 1, Olomouc, Czech Republic"
+  },
+  {
+    "clientId": "C1005",
+    "name": "Filip Marek",
+    "type": "business",
+    "location": "Olomouc",
+    "status": "on hold",
+    "email": "filip.marek@example.com",
+    "phone": "+420 777 000 000",
+    "address": "Okolni 1, Olomouc, Czech Republic"
+  },
+  {
+    "clientId": "C1006",
+    "name": "Gabriela Svoboda",
+    "type": "individual",
+    "location": "Prague",
+    "status": "inactive",
+    "email": "gabriela.svoboda@example.com",
+    "phone": "+420 777 000 000",
+    "address": "Honsova 1, Prague, Czech Republic"
+  },
+  {
+    "clientId": "C1007",
+    "name": "Honza Kovar",
+    "type": "individual",
+    "location": "Plzen",
+    "status": "VIP",
+    "email": "honza.kovar@example.com",
+    "phone": "+420 777 000 000",
+    "address": "Hradni 1, Plzen, Czech Republic"
+  },
+  {
+    "clientId": "C2000",
+    "name": "Pavel Urban",
+    "type": "individual",
+    "location": "Jesenik",
+    "status": "active",
+    "email": "pavel.urban@example.com",
+    "phone": "+420 602 123 456",
+    "address": "Kounicova 10, Jesenik, Czech Republic"
+  }
+]

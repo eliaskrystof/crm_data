@@ -1,0 +1,207 @@
+[
+  {
+    "clientId": "C1000",
+    "history": [
+      {
+        "date": "2025-01-15",
+        "item": "Pine Wide Plank",
+        "amount": "66 m\u00b2"
+      },
+      {
+        "date": "2025-01-20",
+        "item": "Beech Rustic",
+        "amount": "80 m\u00b2"
+      },
+      {
+        "date": "2024-11-21",
+        "item": "Beech Rustic",
+        "amount": "49 m\u00b2"
+      },
+      {
+        "date": "2025-01-28",
+        "item": "Pine Wide Plank",
+        "amount": "73 m\u00b2"
+      },
+      {
+        "date": "2025-04-08",
+        "item": "Hickory Matte Finish",
+        "amount": "73 m\u00b2"
+      }
+    ]
+  },
+  {
+    "clientId": "C1001",
+    "history": [
+      {
+        "date": "2024-12-14",
+        "item": "Pine Wide Plank",
+        "amount": "86 m\u00b2"
+      },
+      {
+        "date": "2024-11-27",
+        "item": "Oak Parquet",
+        "amount": "66 m\u00b2"
+      },
+      {
+        "date": "2024-12-17",
+        "item": "Walnut Brushed",
+        "amount": "80 m\u00b2"
+      },
+      {
+        "date": "2025-03-23",
+        "item": "Walnut Brushed",
+        "amount": "86 m\u00b2"
+      }
+    ]
+  },
+  {
+    "clientId": "C1002",
+    "history": [
+      {
+        "date": "2025-02-18",
+        "item": "Hickory Matte Finish",
+        "amount": "65 m\u00b2"
+      },
+      {
+        "date": "2024-12-12",
+        "item": "Walnut Brushed",
+        "amount": "49 m\u00b2"
+      },
+      {
+        "date": "2025-04-18",
+        "item": "Pine Wide Plank",
+        "amount": "59 m\u00b2"
+      },
+      {
+        "date": "2025-01-27",
+        "item": "Walnut Brushed",
+        "amount": "39 m\u00b2"
+      },
+      {
+        "date": "2025-04-10",
+        "item": "Beech Rustic",
+        "amount": "53 m\u00b2"
+      }
+    ]
+  },
+  {
+    "clientId": "C1003",
+    "history": [
+      {
+        "date": "2024-12-25",
+        "item": "Hickory Matte Finish",
+        "amount": "46 m\u00b2"
+      },
+      {
+        "date": "2025-01-13",
+        "item": "Maple Plank",
+        "amount": "48 m\u00b2"
+      },
+      {
+        "date": "2024-12-10",
+        "item": "Oak Parquet",
+        "amount": "64 m\u00b2"
+      },
+      {
+        "date": "2024-12-14",
+        "item": "Oak Parquet",
+        "amount": "48 m\u00b2"
+      }
+    ]
+  },
+  {
+    "clientId": "C1004",
+    "history": [
+      {
+        "date": "2024-12-29",
+        "item": "Pine Wide Plank",
+        "amount": "59 m\u00b2"
+      },
+      {
+        "date": "2025-02-12",
+        "item": "Maple Plank",
+        "amount": "73 m\u00b2"
+      }
+    ]
+  },
+  {
+    "clientId": "C1005",
+    "history": [
+      {
+        "date": "2025-03-06",
+        "item": "Walnut Brushed",
+        "amount": "31 m\u00b2"
+      },
+      {
+        "date": "2025-04-13",
+        "item": "Oak Parquet",
+        "amount": "60 m\u00b2"
+      },
+      {
+        "date": "2025-03-11",
+        "item": "Walnut Brushed",
+        "amount": "84 m\u00b2"
+      },
+      {
+        "date": "2025-04-05",
+        "item": "Maple Plank",
+        "amount": "62 m\u00b2"
+      }
+    ]
+  },
+  {
+    "clientId": "C1006",
+    "history": [
+      {
+        "date": "2025-01-29",
+        "item": "Beech Rustic",
+        "amount": "31 m\u00b2"
+      },
+      {
+        "date": "2024-12-14",
+        "item": "Oak Parquet",
+        "amount": "36 m\u00b2"
+      }
+    ]
+  },
+  {
+    "clientId": "C1007",
+    "history": [
+      {
+        "date": "2025-05-03",
+        "item": "Maple Plank",
+        "amount": "74 m\u00b2"
+      },
+      {
+        "date": "2025-01-12",
+        "item": "Oak Parquet",
+        "amount": "80 m\u00b2"
+      },
+      {
+        "date": "2025-03-10",
+        "item": "Oak Parquet",
+        "amount": "53 m\u00b2"
+      },
+      {
+        "date": "2025-04-27",
+        "item": "Maple Plank",
+        "amount": "48 m\u00b2"
+      }
+    ]
+  },
+  {
+    "clientId": "C2000",
+    "history": [
+      {
+        "date": "2025-04-25",
+        "item": "Walnut Wide Plank",
+        "amount": "45 m\u00b2"
+      },
+      {
+        "date": "2025-05-05",
+        "item": "Beech Satin Finish",
+        "amount": "30 m\u00b2"
+      }
+    ]
+  }
+]

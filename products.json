@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Maple Plank",
+    "category": "New Arrival",
+    "description": "Engineered for stability",
+    "size": "150x18mm",
+    "color": "Smoked",
+    "price": "103 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Acacia Hand-Scraped",
+    "category": "Bestseller",
+    "description": "Durable and scratch-resistant",
+    "size": "150x18mm",
+    "color": "Golden Oak",
+    "price": "78 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Walnut Brushed",
+    "category": "Last Pieces",
+    "description": "Brushed texture with UV oil finish",
+    "size": "120x14mm",
+    "color": "Smoked",
+    "price": "113 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Oak Parquet",
+    "category": "Premium Selection",
+    "description": "Sustainably sourced hardwood",
+    "size": "150x18mm",
+    "color": "Amber",
+    "price": "56 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Walnut Rustic",
+    "category": "Premium Selection",
+    "description": "Durable and scratch-resistant",
+    "size": "180x16mm",
+    "color": "Golden Oak",
+    "price": "47 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Birch Chevron",
+    "category": "Bestseller",
+    "description": "Durable and scratch-resistant",
+    "size": "180x16mm",
+    "color": "Smoked",
+    "price": "109 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Birch Engineered",
+    "category": "Premium Selection",
+    "description": "Brushed texture with UV oil finish",
+    "size": "100x12mm",
+    "color": "Whitewashed",
+    "price": "89 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Hickory Rustic",
+    "category": "Bestseller",
+    "description": "Sustainably sourced hardwood",
+    "size": "100x12mm",
+    "color": "Whitewashed",
+    "price": "87 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Hickory Matte Finish",
+    "category": "Last Pieces",
+    "description": "Easy click-lock installation",
+    "size": "120x14mm",
+    "color": "Natural",
+    "price": "69 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Hickory Burned",
+    "category": "Bestseller",
+    "description": "Durable and scratch-resistant",
+    "size": "120x14mm",
+    "color": "Natural",
+    "price": "42 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Beech Parquet",
+    "category": "New Arrival",
+    "description": "Easy click-lock installation",
+    "size": "120x14mm",
+    "color": "Natural",
+    "price": "66 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Oak Matte Finish",
+    "category": "Premium Selection",
+    "description": "Sustainably sourced hardwood",
+    "size": "200x20mm",
+    "color": "Charcoal",
+    "price": "66 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Mahogany Rustic",
+    "category": "Exclusive",
+    "description": "Engineered for stability",
+    "size": "100x12mm",
+    "color": "Golden Oak",
+    "price": "95 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Pine Engineered",
+    "category": "New Arrival",
+    "description": "Sustainably sourced hardwood",
+    "size": "180x16mm",
+    "color": "Rustic Brown",
+    "price": "115 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Cedar Burned",
+    "category": "Exclusive",
+    "description": "Easy click-lock installation",
+    "size": "200x20mm",
+    "color": "Golden Oak",
+    "price": "69 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Beech Burned",
+    "category": "Bestseller",
+    "description": "Durable and scratch-resistant",
+    "size": "200x20mm",
+    "color": "Amber",
+    "price": "64 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Maple Brushed",
+    "category": "Limited Edition",
+    "description": "Brushed texture with UV oil finish",
+    "size": "200x20mm",
+    "color": "Natural",
+    "price": "113 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Maple Wide Plank",
+    "category": "Last Pieces",
+    "description": "Suitable for underfloor heating",
+    "size": "180x16mm",
+    "color": "Rustic Brown",
+    "price": "93 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Birch Matte Finish",
+    "category": "Premium Selection",
+    "description": "Suitable for underfloor heating",
+    "size": "100x12mm",
+    "color": "Amber",
+    "price": "95 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Pine Matte Finish",
+    "category": "New Arrival",
+    "description": "Easy click-lock installation",
+    "size": "100x12mm",
+    "color": "Amber",
+    "price": "95 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Ebony Engineered",
+    "category": "New Arrival",
+    "description": "Engineered for stability",
+    "size": "100x12mm",
+    "color": "Rustic Brown",
+    "price": "39 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Mahogany Herringbone",
+    "category": "Exclusive",
+    "description": "Easy click-lock installation",
+    "size": "180x16mm",
+    "color": "Golden Oak",
+    "price": "41 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Pine Wide Plank",
+    "category": "Limited Edition",
+    "description": "Durable and scratch-resistant",
+    "size": "150x18mm",
+    "color": "Charcoal",
+    "price": "78 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Ash Parquet",
+    "category": "Exclusive",
+    "description": "Natural wood grain preserved",
+    "size": "120x14mm",
+    "color": "Rustic Brown",
+    "price": "82 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Teak Wide Plank",
+    "category": "Premium Selection",
+    "description": "Sustainably sourced hardwood",
+    "size": "100x12mm",
+    "color": "Golden Oak",
+    "price": "78 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Cedar Chevron",
+    "category": "Exclusive",
+    "description": "Engineered for stability",
+    "size": "180x16mm",
+    "color": "Whitewashed",
+    "price": "52 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Beech Hand-Scraped",
+    "category": "Bestseller",
+    "description": "Durable and scratch-resistant",
+    "size": "200x20mm",
+    "color": "Golden Oak",
+    "price": "36 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Beech Engineered",
+    "category": "New Arrival",
+    "description": "Durable and scratch-resistant",
+    "size": "150x18mm",
+    "color": "Natural",
+    "price": "75 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Cedar Wide Plank",
+    "category": "Bestseller",
+    "description": "Durable and scratch-resistant",
+    "size": "150x18mm",
+    "color": "Smoked",
+    "price": "84 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Ash Engineered",
+    "category": "Premium Selection",
+    "description": "Suitable for underfloor heating",
+    "size": "180x16mm",
+    "color": "Amber",
+    "price": "45 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Walnut Plank",
+    "category": "On Sale",
+    "description": "Easy click-lock installation",
+    "size": "180x16mm",
+    "color": "Smoked",
+    "price": "57 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Birch Satin Finish",
+    "category": "Exclusive",
+    "description": "Durable and scratch-resistant",
+    "size": "180x16mm",
+    "color": "Rustic Brown",
+    "price": "89 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Bamboo Parquet",
+    "category": "Premium Selection",
+    "description": "Suitable for underfloor heating",
+    "size": "200x20mm",
+    "color": "Amber",
+    "price": "42 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Walnut Wide Plank",
+    "category": "New Arrival",
+    "description": "Suitable for underfloor heating",
+    "size": "180x16mm",
+    "color": "Amber",
+    "price": "68 \u20ac/m\u00b2"
+  },
+  {
+    "name": "Birch Rustic",
+    "category": "Bestseller",
+    "description": "Brushed texture with UV oil finish",
+    "size": "180x16mm",
+    "color": "Rustic Brown",
+    "price": "85 \u20ac/m\u00b2"
+  }
+]

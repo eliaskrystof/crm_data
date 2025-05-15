@@ -1,0 +1,47 @@
+[
+  {
+    "clientId": "C1000",
+    "balance": "2008 CZK",
+    "lastInvoiceDate": "2025-05-08"
+  },
+  {
+    "clientId": "C1001",
+    "balance": "6 CZK",
+    "lastInvoiceDate": "2025-03-22"
+  },
+  {
+    "clientId": "C1002",
+    "balance": "2980 CZK",
+    "lastInvoiceDate": "2025-03-20"
+  },
+  {
+    "clientId": "C1003",
+    "balance": "2482 CZK",
+    "lastInvoiceDate": "2025-04-07"
+  },
+  {
+    "clientId": "C1004",
+    "balance": "2414 CZK",
+    "lastInvoiceDate": "2025-04-10"
+  },
+  {
+    "clientId": "C1005",
+    "balance": "2147 CZK",
+    "lastInvoiceDate": "2025-05-10"
+  },
+  {
+    "clientId": "C1006",
+    "balance": "694 CZK",
+    "lastInvoiceDate": "2025-05-03"
+  },
+  {
+    "clientId": "C1007",
+    "balance": "2984 CZK",
+    "lastInvoiceDate": "2025-05-01"
+  },
+  {
+    "clientId": "C2000",
+    "balance": "1250 CZK",
+    "lastInvoiceDate": "2025-05-08"
+  }
+]
